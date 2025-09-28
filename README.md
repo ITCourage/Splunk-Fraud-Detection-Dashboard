@@ -109,7 +109,15 @@ Bar chart of fraudulent transactions by time step (May–Aug). Provides a time-b
 Completed Fraud Detection Dashboard with six panels.
 Includes: Count by Category, Fraudulent Payments, Age, Merchant, Fraud by Category, and Fraud by Month. Exported for reporting.
 
-<img width="1872" height="868" alt="image" src="https://github.com/user-attachments/assets/c625b0d2-cbb6-4d3b-a7d5-60a0eec586c9" />
+<img width="1857" height="766" alt="image" src="https://github.com/user-attachments/assets/37ec2010-27df-4e57-bc4f-0d19b3454fd0" />
+<img width="1846" height="727" alt="image" src="https://github.com/user-attachments/assets/e5904260-076c-430b-85d2-d211d305e51c" />
+<img width="1836" height="737" alt="image" src="https://github.com/user-attachments/assets/856a2032-d750-45ed-995e-b74ec2d1757d" />
+<img width="1833" height="363" alt="image" src="https://github.com/user-attachments/assets/0254f389-b26d-4ac4-ba3a-beec821fa01a" />
+
+
+
+
+
 
 &nbsp; 
 &nbsp; 
